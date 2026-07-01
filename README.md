@@ -29,3 +29,11 @@ We share projects here in the form of flolders these are called as Repository(Re
 <br>
 Commit : Save Commits in the form of history. Commit means take a screenshot and save it in memeory.
 <br>
+Configuring Git
+<br>
+git config --global user.name "My Name"
+<br>
+git config --global user.email "Someone@email.com"
+<br>
+git config --list
+<br>
